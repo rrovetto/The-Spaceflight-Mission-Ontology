@@ -3,11 +3,10 @@
 ## About
 
 ## Support (How you can help)
-As unfunded work, financial sponsors, donations, and work or PhD study opportunities to develop this project are welcome.
+As unfunded work, financial sponsors, donations, and work or PhD study opportunities to develop this project are welcome. If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
 
 ## Contact
 [Contact the author at this link](ontospace.wordpress.com/contact)
-
 
 ## Copyright
 © 2011-2021, Robert John Rovetto. All right reserved.
