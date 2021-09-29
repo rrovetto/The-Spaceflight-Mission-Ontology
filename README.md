@@ -1,6 +1,6 @@
 # The Spaceflight Mission Ontology
-
-## About
+An ontology describing types of missions in astronautics, their phases, actors, characteristics, etc. 
+Examples, or instances, of missions are included to form a knoweldge graph.
 
 ## Support (How you can help)
 As unfunded work, financial sponsors, donations, and work or PhD study opportunities to develop this project are welcome. If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
